@@ -1,1 +1,4 @@
 # vk_crutch
+```
+python3.6 $PLAYLIST_PARSER $TELEPHONE $PASSWORD $OWNER_ID
+
